@@ -6,9 +6,8 @@ CSC 4035 Lab 5:UI Frameworks in Practice
 
  Tools Used & Our Experience
  Bootstrap
-We used Bootstrap to quickly build a responsive page layout using the grid system.  
-Allowing us to style the navbar, alerts, buttons, and layout without writing any custom CSS.  
-Experience: It was easy to implement and good for structured design. We appreciated the ready-made components.
+Using Bootstrap's grid system, we quickly created a responsive page layout and easily styled UI elements like navbars, alerts, and buttons without custom CSS. 
+Our experience was positive, finding it straightforward to implement and appreciating the pre-built components that enabled a structured design
 
 Tailwind CSS
 Tailwind CSS was used to build a card-style layout using utility-first classes like `bg-white`, `rounded`, `shadow`, etc.  
